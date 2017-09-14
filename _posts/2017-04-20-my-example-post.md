@@ -14,24 +14,24 @@ We use a PeopleBot-sh robot (from Aria Mobile Robot) as a platform. A Hokuyo UST
 I didn't use ROS in this project. Instead, I wrote all components in python, include robot controller, path planning, and SLAM system. It takes me about half a year to get done and then I learned not making any wheels :)
 
 
-![](images/Indoor_Patrol_Robot_Software_System/realexp01.JPG)
+![]({{ site.url }}/images/Indoor_Patrol_Robot_Software_System/realexp01.JPG)
 
 # Unknown Area Detection
 
 A robot with curiosity is a good idea, so I let robot explore its working environment by itself. The robot will check any place where range signal changes severely. If the place hasn't been explored, the robot will try to approach this area. This method works well, but the robot shall be kept away from the stairway.
 
-![](images/Indoor_Patrol_Robot_Software_System/scanner03.jpg)
+![]({{ site.url }}/images/Indoor_Patrol_Robot_Software_System/scanner03.jpg)
 
 # Robot SLAM System
 
 This robot uses a classical (and easy to implement! ) way localize itself and build map. My way is to extract feature point and geometry feature from observation. Then match them into a global map. As the odometry is robust in 
  linear movement and laser scanner can estimate rotation easily. I designed a switch system to determine the estimation from different source and it works! I also tried particle filter method. This algorithm solved the initiation problem.
 
-![](images/Indoor_Patrol_Robot_Software_System/map.png)
+![]({{ site.url }}/images/Indoor_Patrol_Robot_Software_System/map.png)
 
 Digraph about a part of the SLAM system.
 
-![](images/Indoor_Patrol_Robot_Software_System/slamSystem.png)
+![]({{ site.url }}/images/Indoor_Patrol_Robot_Software_System/slamSystem.png)
 
 
 #  Ref
@@ -106,9 +106,9 @@ biological cybernetics. Technical report, Tech. Rep, 2006.
 
 # Resources:
 
-1. [Thesis](Resources/Indoor_Patrol_Robot_Software_System/main.pdf)
-2. [Powerpoint for oral representation](Resources/Indoor_Patrol_Robot_Software_System/ppt.pdf)
+1. [Thesis]({{ site.url }}/Resources/Indoor_Patrol_Robot_Software_System/main.pdf)
+2. [Powerpoint for oral representation]({{ site.url }}/Resources/Indoor_Patrol_Robot_Software_System/ppt.pdf)
 
 
 
-[Return to homepage]({ {site.baseurl} })
+[Return to homepage]({ {site.url} })

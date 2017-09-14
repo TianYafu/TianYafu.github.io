@@ -27,10 +27,10 @@ Mobile Robot, Adaptive Clustering**
 
 ## Simulation and Experiment:
 
-![](images/Autonomous-Map-Segmentation/digest.jpg)
+![]({{ site.url }}/images/Autonomous-Map-Segmentation/digest.jpg)
 
 
-![](images/Autonomous-Map-Segmentation/similarity02.png)
+![]({{ site.url }}/images/Autonomous-Map-Segmentation/similarity02.png)
 
 
 ## Resource: 
@@ -39,4 +39,4 @@ Tian Y, Wang K, Li R and Zhao L (2016) Fast map segmentation
 method based on spectral partition for robot semantic
 navigation. In: 2016 IEEE International Conference on
 Mechatronics and Automation. pp. 1059–1065. DOI:10.1109/
-ICMA.2016.7558709.[[pdf]](Resources/Autonomous-Map-Segmentation/PID4286163.pdf) [[ppt]](Resources/Autonomous-Map-Segmentation/document.pdf)
+ICMA.2016.7558709.[[pdf]]({{ site.url }}/Resources/Autonomous-Map-Segmentation/PID4286163.pdf) [[ppt]]({{ site.url }}/Resources/Autonomous-Map-Segmentation/document.pdf)
