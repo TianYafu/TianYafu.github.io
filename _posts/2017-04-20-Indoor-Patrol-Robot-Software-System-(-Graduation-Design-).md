@@ -24,7 +24,7 @@ A robot with curiosity is a good idea, so I let robot explore its working enviro
 
 # Robot SLAM System
 
-This robot uses a classical (and easy to implement! ) way localize itself and build map. My way is to extract feature point and geometry feature from observation. Then match them into a global map. As the odometry is robust in 
+This robot uses a classical (and easy to implement! ) way localize itself and build map. The first step is to extract feature point and geometry feature from LIDAR observation. Then match them into a global map. As the odometry is robust in
  linear movement and laser scanner can estimate rotation easily. I designed a switch system to determine the estimation from different source and it works! I also tried particle filter method. This algorithm solved the initiation problem.
 
 ![]({{ site.url }}/images/Indoor_Patrol_Robot_Software_System/map.png)
@@ -32,6 +32,7 @@ This robot uses a classical (and easy to implement! ) way localize itself and bu
 Digraph about a part of the SLAM system.
 
 ![]({{ site.url }}/images/Indoor_Patrol_Robot_Software_System/slamSystem.png)
+
 
 
 #  Ref

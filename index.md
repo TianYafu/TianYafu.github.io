@@ -8,10 +8,15 @@
 layout: home
 ---
 
-Cayman Blog Theme is a clean, responsive blogging theme for Jekyll, with social features. It is inspired by the Cayman Theme for Github Pages, which can be greatly used for single projects but not as blogging platform.
+I'm Tian Yafu, Phd Candidate of State Key Laboratory of Robotics and
+System, Harbin Institute of Technology. [ [My resume] ]({{ site.url }}/Resources/global/template.pdf)
 
-This theme has instead all you need to start today blogging with Jekyll, and no effort: pages, posts, few social buttons. Try loading this on mobile too.
+For more tutorial, project introduction and useful tools I've written. please check out [my blog](https://zhuanlan.zhihu.com/yafu-blog?author=tian-ya-fu) (chinese). Like or suscribe it if you like :) Leaving a message if you want to contact to me, I'll check it out.
 
-Have a look at the Github page for more information.
+My life goal is to implement science fiction vision of advanced artificial intelligence.
+And I devote myself to any research field which will help. A more actual goal is to
+make robot learning and recognizing environment automatically. In past few years I
+focused on state estimation and environment recognition problem of different robots
+(Aeromodel, AGV and AUV). Now I'm working on with semantic object partition and recognition.
 
-You find this descriptive text in the `index.md` file, so you can change it, or remove it completely, according to your needs.
+I've also in charge of two robot project (XiaoBai and XiaoHuang robot's software system). Those patrol robot is designed for area control, monitoring, and medical sterilize (XiaoBai robot).

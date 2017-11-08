@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Small Project] 3510 Motor Driver's Adjuster with GUI
+title: 3510 Motor Driver's Adjuster with GUI
 ---
 
 The aim of this project is to help new student (in my lab) adjusting motor with 3510 motor driver. This motor driver is a high-performance, mid-power driver developed by State Key Laboratory of Robotics and System. 3510 Motor driver receive both 485 serial communication and CAN communication. By providing a graphic interface, I free some student from suffering the pain of calculating and generating CAN message manually. This program can also track and plot robot's speed automatically.

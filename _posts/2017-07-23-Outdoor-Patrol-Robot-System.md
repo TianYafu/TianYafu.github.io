@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Project] Outdoor Patrol Robot (XiaoHuang) Software System
+title: Outdoor Patrol Robot (XiaoHuang) Software System
 ---
 
 XiaoHuang is a patrol robot which is designed to adapt outdoor environment. Equipped with powerful security canera (from Hikvision), SICK laser scanner and other sensor, the robot can cope with common outdoor environment.

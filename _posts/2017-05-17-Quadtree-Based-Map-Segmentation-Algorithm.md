@@ -1,6 +1,6 @@
 ---
 layout: post
-title: [Waiting for publish] Quadtree-Based Map Segmentation-Algorithm
+title:  Quadtree-Based Map Segmentation-Algorithm
 ---
 
 I made a great improvement on my previous map segmentation algorithm [thesis pdf]({{ site.url }}/Resources/Autonomous-Map-Segmentation/PID4286163.pdf). In this algorithm, I focused on the stability, resource occupation of algorithm. This page will be updated until this paper finally published (About March 2018).
