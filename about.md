@@ -1,13 +1,12 @@
 ---
 layout: page
 title: About
-tagline: A few more words about this theme
+tagline: Making Contact With Me
 permalink: /about.html
 ---
 
-This is the _Cayman Blog_ Jekyll theme. You can find out more info about customizing this theme, as well as basic usage documentation, and source code at: [cayman-blog](https://github.com/lorepirri/cayman-blog)
+ ## My Email: [16b908039@stu.hit.edu.cn](16b908039@stu.hit.edu.cn)
 
-You can find the source code for _Jekyll_ at [jekyll](https://github.com/jekyll/jekyll)
-
+ ## My Personal Website: [https://tianyafu.github.io/](https://tianyafu.github.io/)
 
 [Go to the Home Page]({{ site.url }}{{ site.baseurl }})
