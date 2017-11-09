@@ -3,7 +3,7 @@ layout: post
 title: Indoor Patrol Robot Software System ( Graduation Design )
 ---
 
-# Robot System
+## Robot System
 
 ## Hardware
 
