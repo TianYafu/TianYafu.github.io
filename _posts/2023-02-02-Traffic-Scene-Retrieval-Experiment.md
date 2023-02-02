@@ -4,3 +4,10 @@ date: 2022-02-02 hh:mm:ss -0000
 
 
 Browsing specific traffic scene in large-scale dataset is an increasing demand from researchers, self-driving community and insurance companies. It is easy to search scenes with specific tags such as ``rain'', ``snow'', or ``on highway''. However, searching specific scene configurations, like ``two vehicles waiting for a person crossing the road'', is still an open problem. In this paper, we provide RSG-search, a scene-graph based traffic scene retrieval method, based on our previous research on traffic scene-graph generation. By previously translating open datasets to scene graphs, we can ignore irrelevant details, and efficiently search specific scene configuration among thousands of traffic scenes. Experiment results shows that our graph searching method is able to retrieve results for a given query with high accuracy. Our method simplifies the task of scene retrieval, opening opportunities for new applications.
+
+
+![]({{ site.url }}/images/Traffic_Scene_Retrieval/NEDO_PATTERN_01-crop.pdf)
+
+![]({{ site.url }}/images/Traffic_Scene_Retrieval/NEDO_PATTERN_02-crop.pdf)
+
+![]({{ site.url }}/images/Autonomous-Map-Segmentation/similarity02.png)
